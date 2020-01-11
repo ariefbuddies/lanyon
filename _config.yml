@@ -17,6 +17,6 @@ author:
   name:              Mark Otto
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
-
+plugins:             [jekyll-paginate]
 # Custom vars
 version:             1.0.0
